@@ -29,3 +29,23 @@ The pokemon data above is at data/0pokemon.json (2022/12/18)
 の順で実行していくと画像を取得できます
 
 If you want image of pokemons, run the jupyter notebook from 7identification.ipynb
+
+## タイプ番号/ typeID
+0 Normal
+1 Fire
+2 Water
+3 Electric
+4 Glass
+5 Ice
+6 Fighting
+7 Poison
+8 Ground
+9 Flying
+10 Psychic
+11 BUg
+12 Rock
+13 Ghost
+14 Dragon
+15 Dark
+16 Steel
+17 Fairy
