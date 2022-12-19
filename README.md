@@ -30,6 +30,12 @@ The pokemon data above is at data/0pokemon.json (2022/12/18)
 
 If you want image of pokemons, run the jupyter notebook from 7identification.ipynb
 
+## 更新 / Updates
+もし登場ポケモンが追加された場合は、下記の順番で実行してデータを更新してください。\n
+If new pokemon added, run the codes in the order below.\n
+\n
+02every_poke → 06check_short_translation → 07indentification → 08images → 09ridImageLink → 10utf8
+
 ## タイプ番号/ typeID
 * 0 Normal
 * 1 Fire
